@@ -1,1 +1,11 @@
-hi i m Anchal Singh
+After making github repo copy and paste the command to insitate github
+after that
+use these commands in git bash
+
+git add .
+git commit -m "give a meaningful message"
+git push -u origin <branch name>
+
+to get the changes made by others
+git pull
+
